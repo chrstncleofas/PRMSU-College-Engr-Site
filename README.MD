@@ -26,7 +26,7 @@ To run this project locally:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Amq-2/PRMSU-COE-Web_ELEC-Project.git
+   git clone https://github.com/chrstncleofas/PRMSU-College-Engr-Site.git
    ```
 
 2. Navigate to the project directory:
